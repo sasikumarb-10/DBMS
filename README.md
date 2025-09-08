@@ -1,8 +1,5 @@
 **Submitted by:** Sasi Kumar B  
-**Reg. No:** 212223060252  
-**Course:** 19CS404 – Database Management System and Its Applications  
-**Unit:** II – Relational Database  
-
+**Reg. No:** 212223060252 
 ---
 
 ## Unnormalized Table (UNF)
@@ -132,5 +129,3 @@
 **All functional dependencies preserved. All anomalies removed.**  
 
 ---
-
-✅ **End of Assignment Submission**
