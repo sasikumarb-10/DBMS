@@ -1,5 +1,3 @@
-# # Fix the Messy Database – CollegeCourseRecords
-
 **Submitted by:** Sasi Kumar B  
 **Reg. No:** 212223060252  
 **Course:** 19CS404 – Database Management System and Its Applications  
